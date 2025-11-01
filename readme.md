@@ -31,11 +31,9 @@ html-demo-website/
 │
 ├── index.html
 ├── style.css
-├── script.js (optional)
 ├── images/
 │   └── (any example images or graphics)
-├── README.md
-└── screenshot.png (optional)
+└── README.md
 
 ````
 
@@ -69,5 +67,6 @@ html-demo-website/
 ## 📜 License
 
 This project is licensed under the **MIT License** – free to use and adapt for personal or educational projects.
+
 
 ```
